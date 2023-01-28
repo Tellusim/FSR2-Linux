@@ -1,3 +1,7 @@
+#  FidelityFX-FSR2 for Linux
+
+https://github.com/GPUOpen-Effects/FidelityFX-FSR2
+
 # Windows
 
 run build/GenerateSolutions.bat
